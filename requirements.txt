@@ -1,1 +1,13 @@
-
+datasets
+transformers
+accelerate
+evaluate
+pandas
+torch
+numpy
+matplotlib
+collections
+PyDrive
+google-colab
+pylev
+itertools
